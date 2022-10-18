@@ -7,6 +7,6 @@ Modelling with the help of XGBoost and Random forest classifier along with GridS
 
 Designed an interactive dashboard using Google Data Studio to help the company gain a quick insight about the key parameters.
 
-Dataset : Link here
+Dataset : https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 Dashboard Link : https://sites.google.com/psgtech.ac.in/shipping-analytics/home
